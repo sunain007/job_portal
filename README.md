@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Portal Prototype - Demo Documentation
 
 ## Overview
@@ -332,3 +333,6 @@ For questions about this prototype or to request modifications, please contact t
 **Version:** 1.0
 **Last Updated:** October 2024
 **Status:** Demo Prototype - Not for Production Use
+=======
+# job_portal
+>>>>>>> ed24cf4022ad545a0ed46c99436cd47b5b4cd2ed
